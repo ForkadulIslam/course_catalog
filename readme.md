@@ -5,6 +5,7 @@ This is a **Course Catalog** application that allows users to browse and filter 
 
 - **Backend:** Pure PHP (PSR-12 compliant) with JSON data storage.  
 - **Frontend:** A Single Page Application (SPA) using Vanilla JavaScript.  
+- **Live Link:** http://43.205.152.178/course_catalog/front_end/index.html
 
 ---
 
