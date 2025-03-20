@@ -12,8 +12,8 @@ This is a **Course Catalog** application that allows users to browse and filter 
 
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/your-username/course-catalog.git
-cd course-catalog
+git clone https://github.com/ForkadulIslam/course_catalog.git
+cd course_catalog
 ```
 
 ### 2. Impot sql directly or run the migration
